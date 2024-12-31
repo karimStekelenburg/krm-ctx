@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="KRM Context Templates" width="100%" />
+  <img src="header.png" alt="KRM Context Templates" />
   
 🧠 **AI-Assisted Development Framework** 🚀
 
