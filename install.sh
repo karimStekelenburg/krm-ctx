@@ -7,6 +7,9 @@ cd .krm-ctx
 # Clone the repository
 git clone https://github.com/karimstekelenburg/krm-ctx.git .
 
+# Remove the .git directory
+rm -rf .git
+
 # Rename krm-ctx.md to .clinerules
 mv krm-ctx.md .clinerules
 
