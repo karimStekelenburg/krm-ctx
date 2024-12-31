@@ -9,7 +9,7 @@ The Brainstorm Phase MUST establish the foundational understanding of the projec
 
 ### Input/Prerequisites [BP-OV-002]
 - MUST have initial project idea or concept
-- MUST have access to `.krm-ctx` directory structure
+- MUST have access to `krm-ctx` directory structure
 - MUST verify entrypoint.md phase is set to "brainstorm"
 - SHOULD have stakeholder availability for clarifications
 - MAY have existing project files to analyze

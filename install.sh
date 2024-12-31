@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Create and enter .krm-ctx directory
-mkdir -p .krm-ctx
-cd .krm-ctx
+# Create and enter krm-ctx directory
+mkdir -p krm-ctx
+cd krm-ctx
 
 # Clone the repository
 git clone https://github.com/karimstekelenburg/krm-ctx.git .
@@ -11,7 +11,7 @@ git clone https://github.com/karimstekelenburg/krm-ctx.git .
 rm -rf .git
 
 # Rename krm-ctx.md to .clinerules
-mv krm-ctx.md .clinerules
+mv krm-ctx.md ../.clinerules
 
 # Remove .template. from filenames
 for file in $(find . -name "*.template.md"); do

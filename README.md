@@ -117,7 +117,7 @@ curl -o- https://raw.githubusercontent.com/karimstekelenburg/krm-ctx/main/instal
 
 ## 🚀 Usage with Cline
 
-1. After installation, the templates will be available in your `.krm-ctx` directory.
+1. After installation, the templates will be available in your `krm-ctx` directory.
 
 2. To start an AI-assisted development session:
    - Open the relevant markdown file (e.g., `entrypoint.md` to begin)

@@ -1,11 +1,11 @@
-# .krm-ctx Directory Documentation [KRM]
+# krm-ctx Directory Documentation [KRM]
 
 ## Overview [KRM-OV]
-The `.krm-ctx` directory serves as the project's working memory, containing all essential context and progress information needed to understand, track, and execute the project effectively. This directory maintains a comprehensive view of both the project's technical and progress aspects, enabling efficient context switching and project momentum.
+The `krm-ctx` directory serves as the project's working memory, containing all essential context and progress information needed to understand, track, and execute the project effectively. This directory maintains a comprehensive view of both the project's technical and progress aspects, enabling efficient context switching and project momentum.
 
 ## Directory Structure [KRM-DS]
 ```
-.krm-ctx/
+krm-ctx/
 ├── entrypoint.md          [DOC-001] First read on task start
 ├── project-context.md     [DOC-002] Project overview and goals
 ├── functional-requirements.md [DOC-003] System requirements and SWOT

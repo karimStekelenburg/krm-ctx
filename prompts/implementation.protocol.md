@@ -11,7 +11,7 @@ The Implementation Phase MUST execute the technical design and implementation pl
 - MUST have completed Design Phase deliverables
 - MUST have approved architectural design
 - MUST have detailed implementation plan
-- MUST have complete .krm-ctx directory setup
+- MUST have complete krm-ctx directory setup
 - MUST verify entrypoint.md phase is set to "implementation"
 
 ### Output/Deliverables [IP-OV-003]
